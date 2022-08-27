@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In this project, I have create a simple expense-tracker with react js using hooks such as `useReducer`, `useState` and `Context API`.
+Expenses are temporarily stored in `Local Storage`.
 
 ## Available Scripts
 
